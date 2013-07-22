@@ -133,3 +133,99 @@ Total time spent on web/dynamic_components.html              -- 537 ms
 Total time                                                   -- 1828 ms
 build.dart finished [2312 ms]
 
+---
+build.dart --machine --changed=lib/controller.dart --changed=web/dynamic_components.dart
+Total time spent on web/dynamic_components.html              -- 321 ms
+[{"method":"generated","params":{"file":"web/out/dynamic_components.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web/out/dynamic_components.dart.map"}}]
+[{"method":"generated","params":{"file":"web/out/_from_packages/dynamic_components/components/xclickcounter.dart.map"}}]
+[{"method":"generated","params":{"file":"web/out/dynamic_components.css"}}]
+[{"method":"generated","params":{"file":"web/out/_from_packages/dynamic_components/controller.dart"}}]
+[{"method":"mapping","params":{"from":"web/dynamic_components.html","to":"web/out/dynamic_components.html"}}]
+[{"method":"generated","params":{"file":"web/out/dynamic_components.html"}}]
+[{"method":"generated","params":{"file":"web/out/dynamic_components.dart"}}]
+[{"method":"generated","params":{"file":"web/out/_from_packages/dynamic_components/components/xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web/out/_from_packages/dynamic_components/controller.dart.map"}}]
+Total time                                                   -- 1212 ms
+build.dart finished [1788 ms]
+
+---
+build.dart --machine --changed=web/dynamic_components.html
+Total time spent on web/dynamic_components.html              -- 286 ms
+[{"method":"generated","params":{"file":"web/out/dynamic_components.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web/out/dynamic_components.dart.map"}}]
+[{"method":"generated","params":{"file":"web/out/_from_packages/dynamic_components/components/xclickcounter.dart.map"}}]
+[{"method":"generated","params":{"file":"web/out/dynamic_components.css"}}]
+[{"method":"generated","params":{"file":"web/out/_from_packages/dynamic_components/controller.dart"}}]
+[{"method":"mapping","params":{"from":"web/dynamic_components.html","to":"web/out/dynamic_components.html"}}]
+[{"method":"generated","params":{"file":"web/out/dynamic_components.html"}}]
+[{"method":"generated","params":{"file":"web/out/dynamic_components.dart"}}]
+[{"method":"generated","params":{"file":"web/out/_from_packages/dynamic_components/components/xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web/out/_from_packages/dynamic_components/controller.dart.map"}}]
+Total time                                                   -- 922 ms
+build.dart finished [1221 ms]
+
+---
+build.dart --machine --changed=lib/components/xclickcounter.dart
+Total time spent on web/dynamic_components.html              -- 316 ms
+[{"method":"generated","params":{"file":"web/out/dynamic_components.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web/out/dynamic_components.dart.map"}}]
+[{"method":"generated","params":{"file":"web/out/_from_packages/dynamic_components/components/xclickcounter.dart.map"}}]
+[{"method":"generated","params":{"file":"web/out/dynamic_components.css"}}]
+[{"method":"generated","params":{"file":"web/out/_from_packages/dynamic_components/controller.dart"}}]
+[{"method":"mapping","params":{"from":"web/dynamic_components.html","to":"web/out/dynamic_components.html"}}]
+[{"method":"generated","params":{"file":"web/out/dynamic_components.html"}}]
+[{"method":"generated","params":{"file":"web/out/dynamic_components.dart"}}]
+[{"method":"generated","params":{"file":"web/out/_from_packages/dynamic_components/components/xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web/out/_from_packages/dynamic_components/controller.dart.map"}}]
+Total time                                                   -- 957 ms
+build.dart finished [1300 ms]
+
+---
+build.dart --machine --changed=lib/components/xclickcounter.dart
+Total time spent on web/dynamic_components.html              -- 319 ms
+[{"method":"generated","params":{"file":"web/out/dynamic_components.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web/out/dynamic_components.dart.map"}}]
+[{"method":"generated","params":{"file":"web/out/_from_packages/dynamic_components/components/xclickcounter.dart.map"}}]
+[{"method":"generated","params":{"file":"web/out/dynamic_components.css"}}]
+[{"method":"generated","params":{"file":"web/out/_from_packages/dynamic_components/controller.dart"}}]
+[{"method":"mapping","params":{"from":"web/dynamic_components.html","to":"web/out/dynamic_components.html"}}]
+[{"method":"generated","params":{"file":"web/out/dynamic_components.html"}}]
+[{"method":"generated","params":{"file":"web/out/dynamic_components.dart"}}]
+[{"method":"generated","params":{"file":"web/out/_from_packages/dynamic_components/components/xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web/out/_from_packages/dynamic_components/controller.dart.map"}}]
+Total time                                                   -- 983 ms
+build.dart finished [1304 ms]
+
+---
+build.dart --machine --changed=web/dynamic_components.html
+Total time spent on web/dynamic_components.html              -- 321 ms
+[{"method":"generated","params":{"file":"web/out/dynamic_components.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web/out/dynamic_components.dart.map"}}]
+[{"method":"generated","params":{"file":"web/out/_from_packages/dynamic_components/components/xclickcounter.dart.map"}}]
+[{"method":"generated","params":{"file":"web/out/dynamic_components.css"}}]
+[{"method":"generated","params":{"file":"web/out/_from_packages/dynamic_components/controller.dart"}}]
+[{"method":"mapping","params":{"from":"web/dynamic_components.html","to":"web/out/dynamic_components.html"}}]
+[{"method":"generated","params":{"file":"web/out/dynamic_components.html"}}]
+[{"method":"generated","params":{"file":"web/out/dynamic_components.dart"}}]
+[{"method":"generated","params":{"file":"web/out/_from_packages/dynamic_components/components/xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web/out/_from_packages/dynamic_components/controller.dart.map"}}]
+Total time                                                   -- 1004 ms
+build.dart finished [1307 ms]
+
+---
+build.dart --machine --changed=web/dynamic_components.html
+Total time spent on web/dynamic_components.html              -- 342 ms
+[{"method":"generated","params":{"file":"web/out/dynamic_components.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web/out/dynamic_components.dart.map"}}]
+[{"method":"generated","params":{"file":"web/out/_from_packages/dynamic_components/components/xclickcounter.dart.map"}}]
+[{"method":"generated","params":{"file":"web/out/dynamic_components.css"}}]
+[{"method":"generated","params":{"file":"web/out/_from_packages/dynamic_components/controller.dart"}}]
+[{"method":"mapping","params":{"from":"web/dynamic_components.html","to":"web/out/dynamic_components.html"}}]
+[{"method":"generated","params":{"file":"web/out/dynamic_components.html"}}]
+[{"method":"generated","params":{"file":"web/out/dynamic_components.dart"}}]
+[{"method":"generated","params":{"file":"web/out/_from_packages/dynamic_components/components/xclickcounter.dart"}}]
+[{"method":"generated","params":{"file":"web/out/_from_packages/dynamic_components/controller.dart.map"}}]
+Total time                                                   -- 1263 ms
+build.dart finished [2092 ms]
+
